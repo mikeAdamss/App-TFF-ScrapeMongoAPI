@@ -7,7 +7,7 @@ Deploys via heroku.
 
 # MongoDb
 
-Needs something like the below. The only fields referenced in-script are "last_updates" and "sequence".
+Needs something like the below (a callection, "raidKills"), otherwise the only fields directly referenced in-script are "last_updated" and "sequence".
 
 ```json
 {
