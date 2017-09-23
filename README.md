@@ -12,7 +12,7 @@ Needs something like the below (a callection, "raidKills"), otherwise the only f
 ```json
 {
 "description": "Raid Progress Scrapes from WowProgress",
-"last_update_successful": "YY",
+"last_update_successful": "Y",
 "last_updated": "2017-09-23 09:39:36",
 "sequence": {
 "Emerald Nightmare, Trial of Valour & Nighhold": {},
